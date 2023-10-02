@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insurance-react-app/static/css/main.eefc237f.css",
+    "main.js": "/insurance-react-app/static/js/main.6027f354.js",
+    "static/js/787.53ac7f46.chunk.js": "/insurance-react-app/static/js/787.53ac7f46.chunk.js",
+    "index.html": "/insurance-react-app/index.html",
+    "main.eefc237f.css.map": "/insurance-react-app/static/css/main.eefc237f.css.map",
+    "main.6027f354.js.map": "/insurance-react-app/static/js/main.6027f354.js.map",
+    "787.53ac7f46.chunk.js.map": "/insurance-react-app/static/js/787.53ac7f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.6027f354.js"
+  ]
+}
